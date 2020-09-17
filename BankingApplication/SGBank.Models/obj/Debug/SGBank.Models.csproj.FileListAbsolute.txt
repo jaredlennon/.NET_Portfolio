@@ -1,0 +1,12 @@
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.Models\obj\Debug\SGBank.Models.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.Models\obj\Debug\SGBank.Models.csprojResolveAssemblyReference.cache
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.Models\obj\Debug\SGBank.Models.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.Models\bin\Debug\nunit.framework.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.Models\bin\Debug\nunit.framework.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.Models\bin\Debug\nunit.framework.xml

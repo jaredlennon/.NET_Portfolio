@@ -1,0 +1,16 @@
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m5-summative\FlooringOrderSystemV2\FlooringOrderSystem.Models\bin\Debug\FlooringOrderSystem.Models.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m5-summative\FlooringOrderSystemV2\FlooringOrderSystem.Models\bin\Debug\FlooringOrderSystem.Models.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m5-summative\FlooringOrderSystemV2\FlooringOrderSystem.Models\obj\Debug\FlooringOrderSystem.Models.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m5-summative\FlooringOrderSystemV2\FlooringOrderSystem.Models\obj\Debug\FlooringOrderSystem.Models.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m5-summative\FlooringOrderSystemV2\FlooringOrderSystem.Models\obj\Debug\FlooringOrderSystem.Models.csprojResolveAssemblyReference.cache
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m5-summative\FlooringOrderSystemV2\FlooringOrderSystem.Models\bin\Debug\nunit.framework.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m5-summative\FlooringOrderSystemV2\FlooringOrderSystem.Models\bin\Debug\nunit.framework.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m5-summative\FlooringOrderSystemV2\FlooringOrderSystem.Models\bin\Debug\nunit.framework.xml
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\mastery-oop\FlooringOrderSystemV2\FlooringOrderSystem.Models\bin\Debug\FlooringOrderSystem.Models.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\mastery-oop\FlooringOrderSystemV2\FlooringOrderSystem.Models\bin\Debug\FlooringOrderSystem.Models.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\mastery-oop\FlooringOrderSystemV2\FlooringOrderSystem.Models\bin\Debug\nunit.framework.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\mastery-oop\FlooringOrderSystemV2\FlooringOrderSystem.Models\bin\Debug\nunit.framework.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\mastery-oop\FlooringOrderSystemV2\FlooringOrderSystem.Models\bin\Debug\nunit.framework.xml
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\mastery-oop\FlooringOrderSystemV2\FlooringOrderSystem.Models\obj\Debug\FlooringOrderSystem.Models.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\mastery-oop\FlooringOrderSystemV2\FlooringOrderSystem.Models\obj\Debug\FlooringOrderSystem.Models.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\mastery-oop\FlooringOrderSystemV2\FlooringOrderSystem.Models\obj\Debug\FlooringOrderSystem.Models.csprojResolveAssemblyReference.cache

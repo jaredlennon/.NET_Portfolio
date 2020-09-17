@@ -1,0 +1,8 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\03-Collections-LINQ-SystemIO-DateTime\Asssessments\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m3-summative\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m3-summative\LINQ\LINQ\bin\Debug\Customers.xml
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m3-summative\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m3-summative\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m3-summative\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m3-summative\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m3-summative\LINQ\LINQ\obj\Debug\LINQ.pdb

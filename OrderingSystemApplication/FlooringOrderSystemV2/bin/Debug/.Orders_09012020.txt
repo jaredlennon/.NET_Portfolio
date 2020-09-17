@@ -1,0 +1,4 @@
+OrderNumber,OrderDate,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,09/01/2020,Jared Lennon,OH,6.25,Wood,100.00,5.15,4.75,515.00,475.00,61.88,1051.88
+2,09/01/2020,John Smith,PA,6.75,Tile,100.00,3.50,4.15,350.00,415.00,51.64,816.64
+3,09/01/2020,Terry Crew,MI,5.75,Carpet,100.00,2.25,2.10,225.00,210.00,25.01,460.01

@@ -1,0 +1,10 @@
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2 - summative\CarManager\CarManager.Models\bin\Debug\CarManager.Models.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2 - summative\CarManager\CarManager.Models\bin\Debug\CarManager.Models.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2 - summative\CarManager\CarManager.Models\obj\Debug\CarManager.Models.csprojResolveAssemblyReference.cache
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2 - summative\CarManager\CarManager.Models\obj\Debug\CarManager.Models.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2 - summative\CarManager\CarManager.Models\obj\Debug\CarManager.Models.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2-summative\CarManager\CarManager.Models\bin\Debug\CarManager.Models.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2-summative\CarManager\CarManager.Models\bin\Debug\CarManager.Models.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2-summative\CarManager\CarManager.Models\obj\Debug\CarManager.Models.csprojResolveAssemblyReference.cache
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2-summative\CarManager\CarManager.Models\obj\Debug\CarManager.Models.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2-summative\CarManager\CarManager.Models\obj\Debug\CarManager.Models.pdb

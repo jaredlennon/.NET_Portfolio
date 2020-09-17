@@ -1,0 +1,17 @@
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.Data\bin\Debug\SGBank.Data.dll
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.Data\bin\Debug\SGBank.Data.pdb
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.Data\bin\Debug\SGBank.Models.dll
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.Data\bin\Debug\SGBank.Models.pdb
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.Data\obj\Debug\SGBank.Data.csprojResolveAssemblyReference.cache
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.Data\obj\Debug\SGBank.Data.dll
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.Data\obj\Debug\SGBank.Data.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.Data\bin\Debug\SGBank.Data.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.Data\bin\Debug\SGBank.Data.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.Data\bin\Debug\SGBank.Models.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.Data\bin\Debug\SGBank.Models.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.Data\obj\Debug\SGBank.Data.csprojResolveAssemblyReference.cache
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.Data\obj\Debug\SGBank.Data.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.Data\obj\Debug\SGBank.Data.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.Data\bin\Debug\nunit.framework.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.Data\bin\Debug\nunit.framework.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.Data\bin\Debug\nunit.framework.xml

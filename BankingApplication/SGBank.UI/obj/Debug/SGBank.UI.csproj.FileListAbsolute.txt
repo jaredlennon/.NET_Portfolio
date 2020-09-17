@@ -1,0 +1,27 @@
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.UI\bin\Debug\SGBank.UI.exe.config
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.UI\bin\Debug\SGBank.UI.exe
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.UI\bin\Debug\SGBank.UI.pdb
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.UI\bin\Debug\SGBank.BLL.dll
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.UI\bin\Debug\SGBank.Models.dll
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.UI\bin\Debug\SGBank.Data.dll
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.UI\bin\Debug\SGBank.BLL.pdb
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.UI\bin\Debug\SGBank.Models.pdb
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.UI\bin\Debug\SGBank.Data.pdb
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.UI\obj\Debug\SGBank.UI.csprojResolveAssemblyReference.cache
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.UI\obj\Debug\SGBank.UI.exe
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SGBank_V2\SGBank.UI\obj\Debug\SGBank.UI.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.UI\bin\Debug\SGBank.UI.exe.config
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.UI\obj\Debug\SGBank.UI.exe
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.UI\obj\Debug\SGBank.UI.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.UI\bin\Debug\SGBank.UI.exe
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.UI\bin\Debug\SGBank.UI.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.UI\bin\Debug\SGBank.BLL.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.UI\bin\Debug\SGBank.Models.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.UI\bin\Debug\SGBank.Data.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.UI\bin\Debug\SGBank.BLL.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.UI\bin\Debug\SGBank.Models.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.UI\bin\Debug\SGBank.Data.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.UI\obj\Debug\SGBank.UI.csprojResolveAssemblyReference.cache
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.UI\bin\Debug\nunit.framework.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.UI\bin\Debug\nunit.framework.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m4-summative\SGBank_V2\SGBank.UI\bin\Debug\nunit.framework.xml

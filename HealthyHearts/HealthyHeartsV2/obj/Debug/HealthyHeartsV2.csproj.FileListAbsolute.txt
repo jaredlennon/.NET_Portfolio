@@ -1,0 +1,6 @@
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\HealthyHeartsV2\HealthyHeartsV2\bin\Debug\HealthyHeartsV2.exe.config
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\HealthyHeartsV2\HealthyHeartsV2\bin\Debug\HealthyHeartsV2.exe
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\HealthyHeartsV2\HealthyHeartsV2\bin\Debug\HealthyHeartsV2.pdb
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\HealthyHeartsV2\HealthyHeartsV2\obj\Debug\HealthyHeartsV2.csprojResolveAssemblyReference.cache
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\HealthyHeartsV2\HealthyHeartsV2\obj\Debug\HealthyHeartsV2.exe
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\HealthyHeartsV2\HealthyHeartsV2\obj\Debug\HealthyHeartsV2.pdb

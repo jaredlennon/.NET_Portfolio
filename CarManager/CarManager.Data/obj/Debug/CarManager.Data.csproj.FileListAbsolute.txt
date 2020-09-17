@@ -1,0 +1,14 @@
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2 - summative\CarManager\CarManager.Data\bin\Debug\CarManager.Data.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2 - summative\CarManager\CarManager.Data\bin\Debug\CarManager.Data.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2 - summative\CarManager\CarManager.Data\obj\Debug\CarManager.Data.csprojResolveAssemblyReference.cache
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2 - summative\CarManager\CarManager.Data\obj\Debug\CarManager.Data.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2 - summative\CarManager\CarManager.Data\obj\Debug\CarManager.Data.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2 - summative\CarManager\CarManager.Data\bin\Debug\CarManager.Models.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2 - summative\CarManager\CarManager.Data\bin\Debug\CarManager.Models.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2-summative\CarManager\CarManager.Data\bin\Debug\CarManager.Data.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2-summative\CarManager\CarManager.Data\bin\Debug\CarManager.Data.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2-summative\CarManager\CarManager.Data\bin\Debug\CarManager.Models.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2-summative\CarManager\CarManager.Data\bin\Debug\CarManager.Models.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2-summative\CarManager\CarManager.Data\obj\Debug\CarManager.Data.csprojResolveAssemblyReference.cache
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2-summative\CarManager\CarManager.Data\obj\Debug\CarManager.Data.dll
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m2-summative\CarManager\CarManager.Data\obj\Debug\CarManager.Data.pdb

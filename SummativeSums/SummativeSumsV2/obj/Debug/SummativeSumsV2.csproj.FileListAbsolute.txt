@@ -1,0 +1,12 @@
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SummativeSumsV2\SummativeSumsV2\bin\Debug\SummativeSumsV2.exe.config
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SummativeSumsV2\SummativeSumsV2\bin\Debug\SummativeSumsV2.exe
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SummativeSumsV2\SummativeSumsV2\bin\Debug\SummativeSumsV2.pdb
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SummativeSumsV2\SummativeSumsV2\obj\Debug\SummativeSumsV2.csprojResolveAssemblyReference.cache
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SummativeSumsV2\SummativeSumsV2\obj\Debug\SummativeSumsV2.exe
+C:\Users\jarlenno\Documents\Visual Studio 2015\Projects\SummativeSumsV2\SummativeSumsV2\obj\Debug\SummativeSumsV2.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m1-summative\SummativeSums\SummativeSumsV2\bin\Debug\SummativeSumsV2.exe.config
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m1-summative\SummativeSums\SummativeSumsV2\obj\Debug\SummativeSumsV2.exe
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m1-summative\SummativeSums\SummativeSumsV2\obj\Debug\SummativeSumsV2.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m1-summative\SummativeSums\SummativeSumsV2\bin\Debug\SummativeSumsV2.exe
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m1-summative\SummativeSums\SummativeSumsV2\bin\Debug\SummativeSumsV2.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Summatives\m1-summative\SummativeSums\SummativeSumsV2\obj\Debug\SummativeSumsV2.csprojResolveAssemblyReference.cache
