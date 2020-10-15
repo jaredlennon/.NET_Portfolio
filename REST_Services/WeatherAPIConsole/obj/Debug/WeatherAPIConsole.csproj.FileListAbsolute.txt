@@ -1,0 +1,13 @@
+D:\Git\Curriculum\dotnet\DDWA\02-REST-WebApi\CodeSamples\S01-WeatherAPIConsole\bin\Debug\WeatherAPIConsole.exe.config
+D:\Git\Curriculum\dotnet\DDWA\02-REST-WebApi\CodeSamples\S01-WeatherAPIConsole\bin\Debug\WeatherAPIConsole.exe
+D:\Git\Curriculum\dotnet\DDWA\02-REST-WebApi\CodeSamples\S01-WeatherAPIConsole\bin\Debug\WeatherAPIConsole.pdb
+D:\Git\Curriculum\dotnet\DDWA\02-REST-WebApi\CodeSamples\S01-WeatherAPIConsole\bin\Debug\Newtonsoft.Json.dll
+D:\Git\Curriculum\dotnet\DDWA\02-REST-WebApi\CodeSamples\S01-WeatherAPIConsole\bin\Debug\System.Net.Http.Formatting.dll
+D:\Git\Curriculum\dotnet\DDWA\02-REST-WebApi\CodeSamples\S01-WeatherAPIConsole\bin\Debug\Newtonsoft.Json.xml
+D:\Git\Curriculum\dotnet\DDWA\02-REST-WebApi\CodeSamples\S01-WeatherAPIConsole\bin\Debug\System.Net.Http.Formatting.xml
+D:\Git\Curriculum\dotnet\DDWA\02-REST-WebApi\CodeSamples\S01-WeatherAPIConsole\obj\Debug\WeatherAPIConsole.csprojResolveAssemblyReference.cache
+D:\Git\Curriculum\dotnet\DDWA\02-REST-WebApi\CodeSamples\S01-WeatherAPIConsole\obj\Debug\WeatherAPIConsole.exe
+D:\Git\Curriculum\dotnet\DDWA\02-REST-WebApi\CodeSamples\S01-WeatherAPIConsole\obj\Debug\WeatherAPIConsole.pdb
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Classwork\WeatherAPIConsole\bin\Debug\WeatherAPIConsole.exe.config
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Classwork\WeatherAPIConsole\obj\Debug\WeatherAPIConsole.exe
+C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Classwork\WeatherAPIConsole\obj\Debug\WeatherAPIConsole.pdb

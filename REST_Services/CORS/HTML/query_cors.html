@@ -1,0 +1,32 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<h1>Ajax Test</h1>
+		<p>
+			Click the button to load a movie with the id entered.
+		</p>
+		<p>
+			<input type="text" id="txtMovieId" />
+		</p>
+		<p>
+			<button onclick="loadMovie()">Click Me</button>
+		</p>
+		<p id="movieDetails">
+		
+		</p>
+		<script src="jquery-3.0.0.min.js"></script>
+		<script>
+			function loadMovie() {
+				var movieId = $('#txtMovieId').val();
+				
+				$.getJSON('http://localhost:56915/movies/get/' + movieId, function(data) {
+					var p = $('#movieDetails');
+					
+					p.text(data.Title);
+				});
+			}
+		</script>
+	</body>
+</html>
+
