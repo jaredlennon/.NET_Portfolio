@@ -14,3 +14,12 @@ The following projects are included in this repository:
 
     LINQQueryWriting
         - LINQ - worked with sample data organized into collections, which I wrote LINQ queries against
+
+    REST_Services
+        - Ajax - 
+        - ContactListService -
+        - CORS - 
+        - jQuery - 
+        - REST_Client - 
+        - WeatherAPIConsole - 
+        - Web_API - 
