@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Vending Machine</title>
+        <!-- Bootstrap core CSS -->
+        <link href="css/bootstrap.css"
+              rel="stylesheet">
+    </head>
+    <body>
+        <div class="container">
+            <h1>Vending Machine</h1>
+            <hr/>
+            <ul class="list-group" id="errorMessages"></ul>
+
+            <div class="row">
+
+                <!-- Col to display item list -->
+                <div class="col-md-8">
+                    <div id="itemContents">                        
+
+                    </div>
+                </div>
+
+                <!-- Col for 3 verticle forms -->
+                <div class="col-md-4">
+                    <div class="row">
+                        <h2>Total $ In</h2>
+                        <form class="custom-form" id="TotalMoneyForm">
+
+                            <!-- Add box to hold amount enetered -->
+                            <div id="total-box">
+                                <input type="text" id="custom-message-total" name="custom-message">
+                            </div>
+
+                            <div class="btn-group-sm" id="moneyButtons">
+                                <button type="button" class="btn btn-default" id="addDollarButton">Add Dollar</button>
+                                <button type="button" class="btn btn-default" id="addQuarterButton">Add Quarter</button>
+                                <button type="button" class="btn btn-default" id="addDimeButton">Add Dime</button>
+                                <button type="button" class="btn btn-default" id="addNickelButton">Add Nickel</button>
+                            </div>
+                             
+                        </form> 
+                    </div>
+                    <hr/>
+
+                    <div class="row">
+                        <h2>Messages</h2>
+                        <form class="custom-form" id="MessagesForm">
+
+                            <div class="message-group-lg">                                                                    
+                                <!-- Add box to display message(s) -->
+                                <input type="text" id="custom-message-large" name="custom-message">
+                            </div>
+
+                            <div class="message-group-sm">
+                                <!-- Add box to display item ID -->
+                                <label for="itemID-textField">Item: </label>
+                                <input type="text" id="itemID-textField" name="itemID-textField">
+                            </div>
+
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-default" id="makePurchaseButton">Make Purchase</button>
+                            </div>
+                        </form> 
+                    </div>
+                    <hr/>
+
+                    <div class="row">
+                        <h2>Change</h2>
+                        <form class="custom-form" id="ChangeForm">
+
+                            <div id="total-box">
+                                <input type="text" id="custom-message-change" name="custom-message">
+                            </div>
+
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-default" id="changeReturnButton">Change Return</button>
+                            </div>
+
+                        </form> 
+                    </div>
+                    <hr/>
+
+                </div>
+            </div>
+
+        </div> <!-- End master div -->
+
+        <script src="js/jquery-2.2.4.min.js"></script>
+        <script src="js/bootstrap.js"></script>
+        <script src="js/home.js"></script>
+    </body>
+</html>
