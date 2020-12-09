@@ -11,3 +11,6 @@ D:\Git\Curriculum\dotnet\DDWA\02-REST-WebApi\CodeSamples\S01-WeatherAPIConsole\o
 C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Classwork\WeatherAPIConsole\bin\Debug\WeatherAPIConsole.exe.config
 C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Classwork\WeatherAPIConsole\obj\Debug\WeatherAPIConsole.exe
 C:\Users\jarlenno\Documents\Repos\online-net-jaredlennon\Classwork\WeatherAPIConsole\obj\Debug\WeatherAPIConsole.pdb
+C:\Users\jarlenno\Documents\Repos\Personal_portfolio\REST_Services\WeatherAPIConsole\bin\Debug\WeatherAPIConsole.exe.config
+C:\Users\jarlenno\Documents\Repos\Personal_portfolio\REST_Services\WeatherAPIConsole\obj\Debug\WeatherAPIConsole.exe
+C:\Users\jarlenno\Documents\Repos\Personal_portfolio\REST_Services\WeatherAPIConsole\obj\Debug\WeatherAPIConsole.pdb
